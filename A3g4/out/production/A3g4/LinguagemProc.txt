@@ -1,1 +1,7 @@
-OJoaofoi ao mercado
+O Joao foi ao mercado
+O Joao colocou 1 bananas no carrinho.
+O Joao colocou 2 bananas no carrinho.
+O Joao colocou 3 bananas no carrinho.
+O Joao colocou 4 bananas no carrinho.
+O Joao colocou 5 bananas no carrinho.
+Joao comprou 5 bananas.
